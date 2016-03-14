@@ -1,6 +1,7 @@
 untitled.html
 div_I_can_also_include__.html
 div_A_tornado_is_a__.html
+latex.tex
 figures/magnetic_diffusivity/magnetic_diffusivity.png
 div_There_is_some_disagreement__.html
 This_convergence_of_warm_air__.html
